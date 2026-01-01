@@ -1,0 +1,7 @@
+## Append samples of your project ##
+resources:
+- 01-crd-appconfig.yaml
+- 02-namespaceclassitem-appconfig.yaml
+- 03-namespaceclass-dev.yaml
+- 04-namespace-test-app.yaml
+# +kubebuilder:scaffold:manifestskustomizesamples
